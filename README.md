@@ -2,23 +2,12 @@
 
 # Hi, I'm Krish Kumar Pal 🦧
 
-**B.S. Economics @ IIT Bombay**
-
-*Quantitative Finance · Statistical Modeling · Programming*
-
 </div>
-
----
 
 ## 🧠 About Me
 
-I'm a second-year undergraduate at IIT Bombay studying Economics, interested in the intersection of
-**economics, financial markets, mathematics, and computation**.
-
-I build projects around quantitative finance, statistical modeling, and
-financial data, with a focus on understanding market behavior through
-mathematical and computational models.
-
+I'm a second-year undergraduate at IIT Bombay studying Economics. Currently a Core Team Member of Quant Club, IIT Bombay.
+I build projects around whatever I get interested in ✌🏻
 ---
 
 ## 🛠️ Technical Skills
@@ -47,12 +36,6 @@ mathematical and computational models.
 | **[Ornstein-Uhlenbeck Mean Reversion](https://github.com/KrishKPal/MeanReversionModeling_OrnsteinUhlenbeck)** | Stochastic Modeling | Mean-reverting financial processes |
 | **[SkillHeat](https://github.com/KrishKPal/Skillheat)** | Software / Data | Technology and market intelligence |
 
----
-
-## 🏫 IIT Bombay
-
-**B.S. Economics — IIT Bombay**
-**Core Team Member, Quant Club, IIT Bombay**
 ---
 
 <div align="center">
