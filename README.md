@@ -1,7 +1,5 @@
 <div align="center">
-
-# Hi, I'm Krish Kumar Pal 🦧
-[![Roblox](https://media.craiyon.com/2025-08-03/NQMa3joaSqeCVyH7Xf0SJg.webp)
+# Hi, I'm Krish Kumar Pal 
 </div>
 
 ## 🧠 About Me
