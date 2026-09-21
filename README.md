@@ -19,7 +19,7 @@ I build projects around whatever I get interested in ✌🏻
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 **Quantitative Finance**  
-`Time Series` · `Volatility Modeling` · `Portfolio Optimization` · `Options Pricing` · `Monte Carlo Simulation` · `Risk Modeling`
+`Time Series` · `Volatility Modeling` · `Portfolio Optimization` · `Options Pricing` · `Risk Modeling`
 
 **Data & Scientific Computing**  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white) ![Statsmodels](https://img.shields.io/badge/Statsmodels-3B5526?style=flat-square) ![CVXPY](https://img.shields.io/badge/CVXPY-4B8BBE?style=flat-square)
