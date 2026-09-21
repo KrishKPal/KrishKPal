@@ -6,8 +6,12 @@
 
 ## 🧠 About Me
 
-I'm a second-year undergraduate at IIT Bombay studying Economics. Currently a Core Team Member of Quant Club, IIT Bombay.
-I build projects around whatever I get interested in ✌🏻
+I'm a second-year undergraduate at IIT Bombay studying Economics, and currently a
+Core Team Member of the Quant Club, IIT Bombay.
+
+I like getting curious about things and building projects around whatever catches
+my interest ✌🏻
+
 ---
 
 ## 🛠️ Technical Skills
@@ -32,7 +36,7 @@ I build projects around whatever I get interested in ✌🏻
 |---|---|---|
 | **[Regime-Switching Portfolio](https://github.com/KrishKPal/Regime-Switching-Portfolio)** | Portfolio Optimization | HMM-based regimes and convex optimization |
 | **[Monte Carlo Simulation of News Shocks and Volatility Regime Dynamics](https://github.com/KrishKPal/Monte-Carlo-Simulation-of-News-Shocks-and-Volatility-Regime-Dynamics)** | Quant Finance | Volatility clustering |
-| **[Market Regimes and Mispricing - Summer of Code](https://github.com/KrishKPal/Predicting_MarketDynamics_for_Data-Driven_Portfolio_Optimization)** | Quant Finance] | Trading signals, technical indicators, risk modeling |
+| **[Market Regimes and Mispricing - Summer of Code](https://github.com/KrishKPal/Predicting_MarketDynamics_for_Data-Driven_Portfolio_Optimization)** | Quant Finance | Trading signals, technical indicators, risk modeling |
 | **[Ornstein-Uhlenbeck Mean Reversion](https://github.com/KrishKPal/MeanReversionModeling_OrnsteinUhlenbeck)** | Stochastic Modeling | Mean-reverting financial processes |
 | **[SkillHeat](https://github.com/KrishKPal/Skillheat)** | Software / Data | Technology and market intelligence |
 
@@ -40,6 +44,6 @@ I build projects around whatever I get interested in ✌🏻
 
 <div align="center">
 
-**Building at the intersection of economics, mathematics, finance, and computation.**
+*Mostly just building things I'm curious about.*
 
 </div>
