@@ -19,11 +19,6 @@ I build projects around quantitative finance, statistical modeling, and
 financial data, with a focus on understanding market behavior through
 mathematical and computational models.
 
-| 📈 Markets | 📊 Quantitative Methods | 💻 Computing |
-|:---:|:---:|:---:|
-| Financial Time Series | Statistics | Python |
-| Risk Modelling | Optimization | C++ |
-
 ---
 
 ## 🛠️ Technical Skills
@@ -36,9 +31,6 @@ mathematical and computational models.
 
 **Data & Scientific Computing**  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white) ![Statsmodels](https://img.shields.io/badge/Statsmodels-3B5526?style=flat-square) ![CVXPY](https://img.shields.io/badge/CVXPY-4B8BBE?style=flat-square)
-
-**Development**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
 **Tools**  
 `Git` · `GitHub` · `Jupyter` · `Linux`
