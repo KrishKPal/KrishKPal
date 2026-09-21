@@ -3,6 +3,7 @@
 # Hi, I'm Krish Kumar Pal 👽
 
 </div>
+
 ## 🧠 About Me
 
 I'm a second-year undergraduate at IIT Bombay studying Economics, and currently a
