@@ -9,8 +9,7 @@
 I'm a second-year undergraduate at IIT Bombay studying Economics, and currently a
 Core Team Member of the Quant Club, IIT Bombay.
 
-I like getting curious about things and building projects around whatever catches
-my interest ✌🏻
+I build projects around whatever I get interested in ✌🏻
 
 ---
 
