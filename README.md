@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Krish Kumar Pal 🦧
-[![Roblox](https://tr.rbxcdn.com/180DAY-2a03c44db7ae01677af03030e9c86e21/420/420/FaceAccessory/Webp/noFilter)](https://tr.rbxcdn.com/180DAY-2a03c44db7ae01677af03030e9c86e21/420/420/FaceAccessory/Webp/noFilter)
+[![Roblox](https://media.craiyon.com/2025-08-03/NQMa3joaSqeCVyH7Xf0SJg.webp)
 </div>
 
 ## 🧠 About Me
