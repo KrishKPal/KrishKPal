@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Krish Kumar Pal 👋
+# Hi, I'm Krish Kumar Pal 🦧
 
 **B.S. Economics @ IIT Bombay**
 
