@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-I'm a B.S. Economics student at IIT Bombay interested in the intersection of
+I'm a second-year undergraduate at IIT Bombay studying Economics, interested in the intersection of
 **economics, financial markets, mathematics, and computation**.
 
 I build projects around quantitative finance, statistical modeling, and
