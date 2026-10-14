@@ -33,7 +33,7 @@ I build projects around whatever I get interested in ✌🏻
 
 | Project | Area | Focus |
 |---|---|---|
-| **[RenewCast]((https://github.com/KrishKPal/RenewCast))** |ML | Energy Analytics |
+| **[RenewCast](https://github.com/KrishKPal/RenewCast)** |ML | Energy Analytics |
 | **[Monte Carlo Simulation of News Shocks and Volatility Regime Dynamics](https://github.com/KrishKPal/Monte-Carlo-Simulation-of-News-Shocks-and-Volatility-Regime-Dynamics)** | Quant Finance | Volatility clustering |
 | **[Regime-Switching Portfolio](https://github.com/KrishKPal/Regime-Switching-Portfolio)** | Portfolio Optimization | HMM-based regimes and convex optimization |
 | **[SkillHeat](https://github.com/KrishKPal/Skillheat)** | Software / Data | Technology and market intelligence |
